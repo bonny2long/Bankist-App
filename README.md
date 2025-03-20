@@ -1,4 +1,4 @@
-Bankist App
+# Bankist App
 
 
 Welcome to the Bankist App, a modern web application built as part of Jonas Schmedtmann's course to simulate an online banking experience. This project showcases the practical implementation of advanced JavaScript concepts.
@@ -13,7 +13,8 @@ Timers: Implementation of setTimeout() and setInterval() for interactive app fun
 
 Internationalization (Intl): Localization of dates, currencies, and numbers based on the user's locale.
 
-🛠 Technologies Used
+🛠 Technologies Used:
+
 JavaScript (ES6+)
 
 HTML5
