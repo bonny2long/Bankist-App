@@ -40,6 +40,7 @@ Creating timers to manage sessions and app interactivity.
 
 Applying internationalization techniques for a global audience.
 
+
 📂 Project Structure
 ├── index.html
 ├── style.css
