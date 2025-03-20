@@ -85,7 +85,7 @@ Flowchart:
            --> [Session Timeout] --> [Logout] --> [End]
 
 
-Acknowledgements
-Jonas Schmedtmann: For designing and creating this project as part of his comprehensive course on advanced JavaScript. His teaching and resources were invaluable in completing this app.
+Acknowledgements:
+Jonas Schmedtmann For designing and creating this project as part of his comprehensive course on advanced JavaScript. His teaching and resources were invaluable in completing this app.
 
            
