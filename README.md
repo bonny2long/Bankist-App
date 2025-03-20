@@ -1,4 +1,6 @@
 Bankist App
+
+
 Welcome to the Bankist App, a modern web application built as part of Jonas Schmedtmann's course to simulate an online banking experience. This project showcases the practical implementation of advanced JavaScript concepts.
  Features
 Advanced Array Methods: Efficient manipulation and display of user data using .map(), .filter(), .reduce(), and others.
